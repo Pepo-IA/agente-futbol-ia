@@ -1,0 +1,11 @@
+opencv-python
+ultralytics
+torch
+torchvision
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+ffmpeg-python
+reportlab
