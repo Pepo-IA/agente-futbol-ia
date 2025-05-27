@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agente Fútbol IA
 
 Este proyecto tiene como objetivo desarrollar un agente de inteligencia artificial capaz de analizar partidos de fútbol de forma táctica y técnica como lo haría un cuerpo técnico profesional.
@@ -12,3 +13,6 @@ Este proyecto tiene como objetivo desarrollar un agente de inteligencia artifici
 pip install -r requirements.txt
 python src/main.py
 ```
+=======
+# agente-futbol-ia
+>>>>>>> 443c07303ee803608035fb80e9f5504e020fedef
